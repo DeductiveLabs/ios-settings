@@ -8,15 +8,15 @@
         <key>Type</key>
         <string>PSGroupSpecifier</string>
         <key>Title</key>
-        <string>Common</string>
+        <string>Server</string>
       </dict>
       <dict>
         <key>Type</key>
         <string>PSTextFieldSpecifier</string>
         <key>Key</key>
-        <string>title</string>
+        <string>server</string>
         <key>Title</key>
-        <string>Title</string>
+        <string>Server name</string>
       </dict>
     </array>
   </dict>
