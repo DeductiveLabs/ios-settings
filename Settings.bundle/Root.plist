@@ -17,6 +17,16 @@
         <string>server</string>
         <key>Title</key>
         <string>Server name</string>
+        <key>AutocapitalizationType</key>
+        <string>None</string>
+        <key>AutocorrectionType</key>
+        <string>No</string>
+        <key>IsSecure</key>
+        <false/>
+        <key>KeyboardType</key>
+        <string>URL</string>
+        <key>DefaultValue</key>
+        <string>https://example.entrant.io</string>
       </dict>
     </array>
   </dict>
