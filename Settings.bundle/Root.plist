@@ -26,6 +26,28 @@
         <key>KeyboardType</key>
         <string>URL</string>
       </dict>
+      <dict>
+        <key>Type</key>
+        <string>PSGroupSpecifier</string>
+        <key>Title</key>
+        <string>Printer</string>
+      </dict>
+      <dict>
+        <key>Type</key>
+        <string>PSTextFieldSpecifier</string>
+        <key>Key</key>
+        <string>printer</string>
+        <key>Title</key>
+        <string>Printer name</string>
+        <key>AutocapitalizationType</key>
+        <string>None</string>
+        <key>AutocorrectionType</key>
+        <string>No</string>
+        <key>IsSecure</key>
+        <false/>
+        <key>KeyboardType</key>
+        <string>URL</string>
+      </dict>
     </array>
   </dict>
 </plist>
