@@ -55,23 +55,25 @@
         <string>Language</string>
       </dict>
       <dict>
-        <key>Type</key>
-        <string>PSMultiValueSpecifier</string>
+        <key>DefaultValue</key>
+        <string>en</string>
         <key>Key</key>
         <string>language</string>
         <key>Title</key>
         <string>Default Language</string>
-        <key>Values</key>
-        <array>
-            <string>en</string>
-            <string>fi</string>
-            <string>sv</string>
-        </array>
         <key>Titles</key>
         <array>
             <string>English</string>
             <string>Suomi</string>
             <string>Svenska</string>
+        </array>
+        <key>Type</key>
+        <string>PSMultiValueSpecifier</string>
+        <key>Values</key>
+        <array>
+            <string>en</string>
+            <string>fi</string>
+            <string>sv</string>
         </array>
       </dict>
     </array>
