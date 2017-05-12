@@ -52,42 +52,26 @@
         <key>Type</key>
         <string>PSGroupSpecifier</string>
         <key>Title</key>
-        <string>Default Language</string>
+        <string>Language</string>
       </dict>
       <dict>
         <key>Type</key>
         <string>PSMultiValueSpecifier</string>
         <key>Key</key>
         <string>language</string>
+        <key>Title</key>
+        <string>Default Language</string>
         <key>Values</key>
         <array>
-            <dict>
-                <key>english</key>
-                <string>en</string>
-            </dict>
-            <dict>
-                <key>suomi</key>
-                <string>fi</string>
-            </dict>
-            <dict>
-                <key>svenska</key>
-                <string>sv</string>
-            </dict>
+            <string>en</string>
+            <string>fi</string>
+            <string>sv</string>
         </array>
         <key>Titles</key>
         <array>
-            <dict>
-                <key>english</key>
-                <string>English</string>
-            </dict>
-            <dict>
-                <key>suomi</key>
-                <string>Suomi</string>
-            </dict>
-            <dict>
-                <key>svenska</key>
-                <string>Svenska</string>
-            </dict>
+            <string>English</string>
+            <string>Suomi</string>
+            <string>Svenska</string>
         </array>
       </dict>
     </array>
