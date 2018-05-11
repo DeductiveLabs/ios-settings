@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-entrant-settings",
+  "version": "0.0.1",
+  "description": "My Application's Settings",
+  "cordova": {
+    "id": "cordova-plugin-entrant-settings",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeductiveLabs/ios-settings"
+  },
+  "keywords": [
+    "Entrant",
+    "Settings"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Jakob Lundberg <jakob@deductivelabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeductiveLabs/ios-settings"
+  },
+  "homepage": "https://github.com/DeductiveLabs/ios-settings"
+}
